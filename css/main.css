@@ -73,8 +73,8 @@ h1.header {
 .box {
     position: relative;
     margin: 0 auto;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background-color: #C3C2AB;
     border-radius: 10px;
     box-shadow: 7px 10px 34px 1px rgba(0, 0, 0, 0.68), inset -1px -6px 12px 0.1px #89847e;
